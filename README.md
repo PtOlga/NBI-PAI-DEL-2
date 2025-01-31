@@ -1,4 +1,5 @@
 ### NBI-PAI-DEL-2
+https://github.com/PtOlga/NBI-PAI-DEL-2/tree/main
 
 Svar på teoretiska frågor finns i filen:  Teoretiska frågor.pdf
 
