@@ -1,15 +1,16 @@
-# NBI-PAI-DEL-2
+### NBI-PAI-DEL-2
 
-Kunskapskontroll 2 Del 1
-G-delen
+Svar på teoretiska frågor finns i filen:  Teoretiska frågor.pdf
 
-Svar på teoretiska frågor finns i filen:
-1. Teoretiska frågor.pdf
+#Mappen «DEL-G» innehåller filer:
+Kunskapskontroll_2_del_G.ipynb
+60000.jpg (classification Report Random Forest Classifier när jag tränade på 60000 urvalet)
 
-Den praktiska uppgiften:
-1. kunskapskontroll_2_del_G.ipynb
-2. den bästa modellen med "joblib" - best_madel.zip
-3. Classification Report Random Forest Classifier när jag tränade på 60000 urvalet - 60000.jpg
+#Mappen «DEL-VG» innehåller filer:
+Bild_en.py 
+best_model.zip (den bästa modellen med "joblib") 
+Modellen är också sparad i Google Docs:
 
+4 bra.png (skärmdump med lyckad förutsägelse av nummer 4)
  
 
