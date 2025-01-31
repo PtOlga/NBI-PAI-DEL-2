@@ -9,6 +9,7 @@ Svar på teoretiska frågor finns i filen:  Teoretiska frågor.pdf
 #Mappen «DEL-VG» innehåller filer:
 - Bild_en.py 
 - best_model.zip (den bästa modellen med "joblib") Modellen är också sparad i Google Docs:
+  https://drive.google.com/file/d/1AyPDoibUsYhx1CnFkFouPh_fIy0pXpB5/view?usp=sharing
 - 4 bra.png (skärmdump med lyckad förutsägelse av nummer 4)
  
 
